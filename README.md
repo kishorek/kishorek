@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorek" alt="kishorek" /> </p>
 
-- 🔭 I’m currently working on [comparesv](https://github.com/kishorek/comparesv)
+- 🔭 I’m currently working on [comparesv](https://github.com/kishorek/comparesv) & [JavaDataGuide](https://github.com/kishorek/JavaDataGuide)
 
 - 🌱 I’m currently learning **Data Pipelines**
-
-- 👯 I’m looking to collaborate on [JavaDataGuide](https://github.com/kishorek/JavaDataGuide)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishorek](https://github.com/kishorek)
 
