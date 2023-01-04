@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">I love coding (mostly in Python, Java, Swift, Objective C)</h3>
+<h3 align="center">I love coding (mostly in Java & Python)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorek" alt="kishorek" /> </p>
 
-- 🔭 I’m currently working on [comparesv](https://github.com/kishorek/comparesv) & [JavaDataGuide](https://github.com/kishorek/JavaDataGuide)
+- 🔭 This is a library i built for comparing CSV files [comparesv](https://github.com/kishorek/comparesv)
 
-- 🌱 I’m currently learning **Data Pipelines**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kishorek](https://github.com/kishorek)
+- 👨‍💻 All of my projects are available at [https://github.com/kishorek](https://github.com/kishorek?tab=repositories&q=&type=source)
 
 - 📝 I rarely write articles on [https://medium.com/@kishorek](https://medium.com/@kishorek)
 
-- 💬 Ask me about **Java, Python, Objective C**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **ukisho@gmail.com**
 
