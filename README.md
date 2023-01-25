@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 This is a library I built for comparing CSV files [comparesv](https://github.com/kishorek/comparesv)<br>- 👨‍💻 All of my projects are available at [https://github.com/kishorek](https://github.com/kishorek?tab=repositories&q=&type=source)<br>- 📝 I rarely write articles on [https://medium.com/@kishorek](https://medium.com/@kishorek)<br>- 💬 Ask me about **Java, Python**<br>- 📫 How to reach me **ukisho@gmail.com**
+<br>- 🔭 This is a library I built for comparing CSV files [comparesv](https://github.com/kishorek/comparesv)<br>- 👨‍💻 All of my projects are available at [https://github.com/kishorek](https://github.com/kishorek?tab=repositories&q=&type=source)<br>- 📝 I rarely write articles on [https://medium.com/@kishorek](https://medium.com/@kishorek)<br>- 💬 Ask me about **Java, Python**<br>- 📫 How to reach me **ukisho📧gmail.com**
 
 
 ## 🌐 Socials:
